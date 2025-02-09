@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "development"
+  ],
+  "rules": {
+    "typescript-config/consistent-casing": "error",
+    "typescript-config/strict": "error"
+  }
+}
